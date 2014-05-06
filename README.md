@@ -5,6 +5,6 @@ algorithms I have implemented with python for fun. check them out for reference 
 
 Algorithms in this pack
 
-1 - merge_sort (coming soon..)
-2 - inversion counter (comming soon..)
- 
+1. merge sort
+2. number of inversions in a list counter (comming soon..)
+
