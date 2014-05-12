@@ -11,3 +11,5 @@ Algorithms in this pack
 2. O(nlogn) inversion counter
   * this algorithm performs with O(nlogn) by peggybacking on merge sort!
 
+3. Finding second largest number in an array with at most n + logn - 2 comparisons!
+  * for this algo tourny algo is the main inspiration. Another divide and conquer algo.
