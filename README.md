@@ -13,3 +13,6 @@ Algorithms in this pack
 
 3. Finding second largest number in an array with at most n + logn - 2 comparisons!
   * for this algo tourny algo is the main inspiration. Another divide and conquer algo.
+
+4. Finding max element in unimodal array in logn
+  * inspired by bisection method if you think max element as f(x)=0 aka root point.
