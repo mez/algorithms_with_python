@@ -16,3 +16,5 @@ Algorithms in this pack
 
 4. Finding max element in unimodal array in logn
   * inspired by bisection method if you think max element as f(x)=0 aka root point.
+
+5. Find if a[i] = i, in a sorted, distinct (increasing order) n elements array
